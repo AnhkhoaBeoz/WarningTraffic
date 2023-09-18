@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryColor">#4D5DFA</color>
+
+    #FAFAFA
+    <color name="colorBGIP">#FAFAFA</color>
+    <color name="colorTextIP">#9E9E9E</color>
+    <color name="colorAlertAndDisibleBtn">#6D79EA</color>
+</resources>
