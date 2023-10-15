@@ -28,7 +28,7 @@ Trước khi sử dụng dự án này, bạn cần đảm bảo rằng bạn đ
 
 1. Clone dự án từ kho lưu trữ:
    ```shell
-   [git clone https://github.com/yourusername/your-traffic-app.git](https://github.com/AnhkhoaBeoz/WarningTraffic)https://github.com/AnhkhoaBeoz/WarningTraffic
+   [git clone (https://github.com/AnhkhoaBeoz/WarningTraffic)]]
    Mở dự án bằng Android Studio.
 
 2: Cấu hình tài khoản Firebase của bạn bằng cách thay thế tệp google-services.json trong thư mục app bằng tệp JSON của dự án Firebase của bạn.
@@ -43,3 +43,57 @@ Trước khi sử dụng dự án này, bạn cần đảm bảo rằng bạn đ
 
 Mở tệp google_maps_api.xml trong thư mục app/src/debug/res/values hoặc app/src/release/res/values.
 Thay đổi giá trị google_maps_key bằng khóa API mà bạn vừa tạo.
+# Hướng dẫn Cài đặt Thư viện
+
+## Nhóm 1: Kotlin và Coroutines
+- `org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9`
+- `org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4`
+
+## Nhóm 2: Firebase Authentication và Realtime Database
+- `com.google.android.gms:play-services-auth:20.7.0`
+- `com.google.firebase:firebase-bom:32.2.3`
+- `com.google.firebase:firebase-auth-ktx`
+- `com.google.firebase:firebase-database-ktx`
+
+## Nhóm 3: AndroidX
+- `androidx.fragment:fragment-ktx:1.6.1`
+- `androidx.core:core-ktx:1.12.0`
+- `androidx.appcompat:appcompat:1.6.1`
+
+## Nhóm 4: Material Design
+- `com.google.android.material:material:1.10.0`
+
+## Nhóm 5: Constraint Layout
+- `androidx.constraintlayout:constraintlayout:2.1.4`
+
+## Nhóm 6: Firebase Analytics và Crashlytics
+- `com.google.firebase:firebase-crashlytics:18.4.3`
+- `com.google.firebase:firebase-analytics:21.3.0`
+
+## Nhóm 7: Google Play Services và Location
+- `com.google.android.gms:play-services-location:21.0.1`
+
+## Nhóm 8: Google Places
+- `com.google.android.libraries.places:places:3.2.0`
+
+## Nhóm 9: Testing
+- `junit:junit:4.13.2`
+- `androidx.test.ext:junit:1.1.5`
+- `androidx.test.espresso:espresso-core:3.5.1`
+
+## Nhóm 10: Multidex
+- `androidx.multidex:multidex:2.0.1`
+
+## Nhóm 11: Glide và CircleImageView
+- `com.github.bumptech.glide:glide:4.16.0`
+- `de.hdodenhof:circleimageview:3.1.0`
+
+## Nhóm 12: Klaxon (JSON Parser)
+- `com.beust:klaxon:5.5`
+
+## Nhóm 13: Google Maps
+- `com.github.jd-alexander:library:1.1.0`
+- `com.google.android.gms:play-services-maps:18.1.0`
+- `com.google.maps.android:android-maps-utils:3.5.3`
+
+
