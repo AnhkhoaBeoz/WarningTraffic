@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">DoAnNghanh</string>
-    <string name="MAPS_API_KEY">AIzaSyDoAB133S4QxJd0HnOvjoDq32Ii7l-DmOM</string>
+    <string name="PLACES_API_KEY">AIzaSyAhSyIVfHow4asuGcUPGkX4X7KA8Yo_LEY</string>
+    <string name="MAPS_API_KEY">AIzaSyAhSyIVfHow4asuGcUPGkX4X7KA8Yo_LEY</string>
 
 </resources>
