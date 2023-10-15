@@ -4,7 +4,10 @@
     <color name="white">#FFFFFFFF</color>
     <color name="primaryColor">#4D5DFA</color>
 
-    #FAFAFA
+    <color name="Greyscale900">#212121</color>
+    <color name="Greyscale800">#424242</color>
+
+    <color name="AlertsStatus">#F75555</color>
     <color name="colorBGIP">#FAFAFA</color>
     <color name="colorTextIP">#9E9E9E</color>
     <color name="colorAlertAndDisibleBtn">#6D79EA</color>

@@ -8,9 +8,7 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragment_container"
-        android:name="com.khoabeo.doannghanh.FragmentView.FragmentChooseLogin"
+        android:name="com.khoabeo.warningtraffic.FragmentView.FragmentChooseLogin"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
-
-
 </androidx.constraintlayout.widget.ConstraintLayout>

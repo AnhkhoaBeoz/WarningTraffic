@@ -8,20 +8,12 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:724004710658:android:c99c8a74ff770dbb48fa1b",
+        "mobilesdk_app_id": "1:724004710658:android:2c7cb4687fd098dd48fa1b",
         "android_client_info": {
-          "package_name": "com.khoabeo.doannghanh"
+          "package_name": "com.khoabeo.warningtraffic"
         }
       },
       "oauth_client": [
-        {
-          "client_id": "724004710658-05lfta6b16e6sbhi5o61umcapjabju7n.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.khoabeo.doannghanh",
-            "certificate_hash": "944ccd39ca1d36e5addd5a91e756dbcdd503c6af"
-          }
-        },
         {
           "client_id": "724004710658-84qe29pkjg2v3qtgl105dsacfajth4tu.apps.googleusercontent.com",
           "client_type": 3
